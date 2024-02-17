@@ -6,4 +6,4 @@
 </p>
 
 
-![programming.gif](https://github.com/kaiserkey/kaiserkey/blob/main/programming.gif)
+![programming.gif](https://i.gifer.com/AbIy.gif)
