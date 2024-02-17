@@ -1,3 +1,3 @@
-<img src="programming.gif" autoplay="true" loop="true">
+![Typing GIF](programming.gif)
 
 ![Typing GIF](about.gif)
