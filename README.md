@@ -1,6 +1,3 @@
-<video width="320" height="240" autoplay loop style="display: block; margin: 0 auto;">
-  <source src="./programming.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Typing GIF](programming.gif)
 
 ![Typing GIF](about.gif)
