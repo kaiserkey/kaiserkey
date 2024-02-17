@@ -1,3 +1,3 @@
-![Typing GIF](programming.gif)
-
 ![Typing GIF](about.gif)
+
+![Programming GIF](programming.gif)
