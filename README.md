@@ -1,3 +1,5 @@
 ![Typing GIF](about.gif)
 
-![Programming GIF](programming.gif)
+<p align="center">
+    ![Programming GIF](programming.gif)
+</p>
